@@ -67,10 +67,10 @@ Or with [Homebrew](https://brew.sh): `$ brew install caprine`
 	<th>How to install</th>
 	<tr>
 		<td>Arch Linux</td>
-		<td>Community</td>
+		<td>AUR</td>
 		<td align="center">✔️</td>
-		<td>Frederik Schwan</td>
-		<td><code>pacman -S caprine</code></td>
+		<td><a href="https://aur.archlinux.org/account/mhdi">mhdi</a></td>
+		<td>Use an <a href="https://wiki.archlinux.org/title/AUR_helpers#Pacman_wrappers">AUR Helper:</a> <code>yay -S caprine</code><sup><a href="https://aur.archlinux.org/packages/caprine">AUR</a><sup></td>
 	</tr>
 	<tr>
 		<td>Debian / Ubuntu (manually)</td>
